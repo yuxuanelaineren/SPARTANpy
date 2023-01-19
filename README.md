@@ -1,0 +1,2 @@
+# SPARTANpy
+Python for SPARTAN
